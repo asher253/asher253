@@ -25,23 +25,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asher253/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@asher253/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asher253/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@asher253/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asher253/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@asher253/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/asher253/asher253/snake-output/snake.svg" alt="Snake animation" />
-
-###
